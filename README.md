@@ -1,4 +1,4 @@
-# My Paper Analysis
+# Notebook for Random Tree model of Meaningful Memory (2025)
 
 This repo contains the Jupyter notebook and data for reproducing the analyses in "Random Tree model of Meaningful Memory", Physical Review Letters (2025), by Weishun Zhong, Tankut Can, Antonis Georgiou, Ilya Shnayderman, Mikhail Katkov, Misha Tsodyks. 
 
