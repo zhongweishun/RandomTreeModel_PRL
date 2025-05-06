@@ -1,0 +1,101 @@
+recall_id,clause_id,segment_ids,fan_out,max_clause_id,clause_text,segment_text
+68,21,[21],1,29,"Maria's mother also told that Maria was fine after operation,","See, here, she never ?€? I don?€?t know if they knew or what,"
+68,25,[25],1,29,"Maria's mother still doesn't understand how her daughter passed out,",I didn?€?t have a phone then.
+92,31,[31],1,58,"and immediately,","And Rita was ?€? I was cooking,"
+53,1,[1],1,35,The story was told by a woman,My daughter died.
+53,31,[31],1,35,and had known the nurses,"And Rita was ?€? I was cooking,"
+0,1,[1],1,72,"My daughter died,",My daughter died.
+98,1,[1],1,90,My daughter died.,My daughter died.
+98,3,[3],1,90,"She was in hospital, getting operated on for appendicitis.","The thirtieth of this month, yeah."
+95,1,[1],1,47,My daughter died,My daughter died.
+95,3,[3],1,47,on the 30th day of the month,"The thirtieth of this month, yeah."
+95,4,[4],1,47,at the Methodist hospital.,She died at Methodist Hospital.
+95,5,[5],1,47,She had gone for an operation,She had an operation for appendicitis.
+95,7,[7],1,47,I sent my other daughter Victoria in,"Sunday morning, my oldest daughter, Victoria, went to the hospital to see how she was."
+95,10,[10],1,47,she noticed a chair in the room.,There was a chair there.
+21,5,[5],1,8,for appendicitis.,She had an operation for appendicitis.
+13,1,[1],1,58,The story was about a girl named Marie,My daughter died.
+13,18,[18],1,58,and the doctors checked up on her.,"So, they went to get her out of bed,"
+13,26,[26],1,58,from the hospital,"The lady from the store who had a phone called me, ?€?Mrs. Costa,?€? at aquarter to five at night."
+13,28,[28],1,58,and she could come pick her up,Go Pick Marie up.
+19,1,[1],1,28,"The story was about the death of a woman's daughter, Marie.",My daughter died.
+19,5,[5],1,28,The daughter that died had been in the hospital for appendicitis.,She had an operation for appendicitis.
+61,1,[1],1,48,My daughter died.,My daughter died.
+61,2,[2],1,48,She'd be twenty-eight years this month.,It?€?ll be twenty-eight years this month.
+61,3,[3],1,48,The thirtieth of this month yeah.,"The thirtieth of this month, yeah."
+61,4,[4],1,48,She died at Methodist Hospital.,She died at Methodist Hospital.
+61,5,[5],1,48,She had an operation for appendicitis.,She had an operation for appendicitis.
+61,6,[6],1,48,"It was Saturday afternoon when they operated, very late.","It was late Saturday afternoon when they operated, very late."
+61,7,[7],1,48,"Sunday morning, my oldest daughter, Victoria, went to the hospital to see how she was.","Sunday morning, my oldest daughter, Victoria, went to the hospital to see how she was."
+61,8,[8],1,48,She was still under ether.,She was still under ether.
+61,9,[9],1,48,"Back then, they used a lot of ether.","Back then, they used a lot of ether."
+61,10,[10],1,48,There was a chair there.,There was a chair there.
+61,11,[11],1,48,They were just starting to get people out.,"They were just starting to get people out of bed, you know."
+61,31,[31],1,48,"I was going,","And Rita was ?€? I was cooking,"
+61,32,[32],1,48,"I said ""Rita, Finish the cooking.","I said, ?€?Rita, finish the cooking.?€?"
+61,33,[33],1,48,"Daddy will be home soon"".",Daddy will be home soon.?€?
+61,34,[34],1,48,He was working down in the yard.,He was working down in the yard.
+61,35,[35],1,48,"I said, ""And put a big pot of coffee on""","I said, ?€?And put a big pot of coffee on,?€? because she had been wishing for coffee."
+61,36,[36],1,48,because she had been wishing for coffee.,"And you know, every morning, that first cup of coffee, I offered it to her."
+14,1,[1],1,29,"Her daughter died in the hospital,",My daughter died.
+8,1,[1],1,35,"My daughter died,",My daughter died.
+8,32,[32],1,35,and when she told the Dad,"I said, ?€?Rita, finish the cooking.?€?"
+51,1,[1],1,43,"Mrs Costa's daughter, Marie, was in the hospital getting treated for an illness.",My daughter died.
+60,1,[1],1,18,Mother telling a story,My daughter died.
+60,4,[4],1,18,in hospital,She died at Methodist Hospital.
+101,1,[1],1,30,A mother was recalling events,My daughter died.
+15,1,[1],1,52,"A woman recounts the passing of her daughter, Marie.",My daughter died.
+15,2,[2],1,52,She talks about how it happened 28 years ago.,It?€?ll be twenty-eight years this month.
+15,4,[4],1,52,Marie was in hospital.,She died at Methodist Hospital.
+15,5,[5],1,52,She was having an operation to treat appendicitis.,She had an operation for appendicitis.
+67,31,[31],1,33,and in the end,"And Rita was ?€? I was cooking,"
+6,23,[23],1,24,Everyone?€?s family member was in shock,"So, when she was walking around to come home after ten days,"
+55,5,[5],1,60,She had just had an operation.,She had an operation for appendicitis.
+94,5,[5],1,13,"Marie died in hospital from appendicitis,",She had an operation for appendicitis.
+11,31,[31],1,52,It turned out,"And Rita was ?€? I was cooking,"
+64,1,[1],1,77,My daughter died.,My daughter died.
+1,1,[1],1,15,The story was about a mother's reaction,My daughter died.
+99,1,[1],1,27,"The daughter died,",My daughter died.
+52,1,[1],1,22,Mrs Mary Costas tells the story,My daughter died.
+16,1,[1],1,24,There was a lady,My daughter died.
+63,14,[14],1,21,they were all sad.,"The nurse said, ?€?Well, we?€?ve got to get her out of bed.?€?"
+63,17,[17],1,21,It was all so sad and terrible.,"But the nurse said, ?€?Well, that?€?s the doctor?€?s orders.?€?"
+35,7,[7],1,42,"Her sister, Victoria, often went to visit her.","Sunday morning, my oldest daughter, Victoria, went to the hospital to see how she was."
+35,31,[31],1,42,I was pulling my hair out,"And Rita was ?€? I was cooking,"
+71,21,[21],1,41,because of the nurses running around,"See, here, she never ?€? I don?€?t know if they knew or what,"
+71,27,[27],1,41,She was so devastated,"?€?Mrs. Costa, they just called you from the hospital."
+47,1,[1],1,32,"Mrs. Costa's daughter Marie passed away,",My daughter died.
+47,31,[31],1,32,"Now, even when Mrs Costa goes to the store,","And Rita was ?€? I was cooking,"
+32,1,[1],1,36,Mrs Costa?€?s daughter had died.,My daughter died.
+38,1,[1],1,23,A mother (Mary) lost her daughter (Marie).,My daughter died.
+85,1,[1],1,43,"So Miss Costa had a daughter named Marie,",My daughter died.
+44,1,[1],1,42,A woman recalls the death of her daughter,My daughter died.
+44,4,[4],1,42,at Methodist Hospital.,She died at Methodist Hospital.
+75,20,[20],1,21,The news was devastating.,and they had to put her back in bed.
+49,9,[9],1,43,They used a lot of Ether back then.,"Back then, they used a lot of ether."
+82,1,[1],1,25,My daughter died,My daughter died.
+72,7,[7],1,41,"When she got to the hospital,","Sunday morning, my oldest daughter, Victoria, went to the hospital to see how she was."
+78,1,[1],1,38,Mrs. Costa had a daughter,My daughter died.
+73,1,[1],1,39,The story centers on a grieving mother,My daughter died.
+73,4,[4],1,39,at a Methodist hospital.,She died at Methodist Hospital.
+73,7,[7],1,39,in the hospital.,"Sunday morning, my oldest daughter, Victoria, went to the hospital to see how she was."
+73,9,[9],1,39,Victoria witnesses the frantic activity,"Back then, they used a lot of ether."
+73,11,[11],1,39,out of their beds.,"They were just starting to get people out of bed, you know."
+73,13,[13],1,39,"and asks a nurse about it,","and she said to the nurse, ?€?What?€?s this chair doing here??€?"
+73,14,[14],1,39,only to learn that it is needed,"The nurse said, ?€?Well, we?€?ve got to get her out of bed.?€?"
+73,15,[15],1,39,to transfer patients.,"She said, ?€?What are you talking about? She?€?s still under ether.?€?"
+37,10,[10],1,49,I saw a chair by her bed.,There was a chair there.
+83,5,[5],1,14,she had appendicitis,She had an operation for appendicitis.
+48,1,[1],1,30,"My daughter Marie was sick,",My daughter died.
+89,28,[28],1,43,She was like in shock.,Go Pick Marie up.
+74,5,[5],1,47,She had her operation,She had an operation for appendicitis.
+77,1,[1],1,23,"The story is about the death of Marie,",My daughter died.
+46,4,[4],1,33,The daughter was in the hospital,She died at Methodist Hospital.
+46,31,[31],1,33,and so did her son.,"And Rita was ?€? I was cooking,"
+70,1,[1],1,15,"My daughter died,",My daughter died.
+70,2,[2],1,15,"It'll be 28 years this month,",It?€?ll be twenty-eight years this month.
+70,3,[3],1,15,the 30th of the month.,"The thirtieth of this month, yeah."
+80,23,[23],1,37,Her life was shattered.,"So, when she was walking around to come home after ten days,"
+80,31,[31],1,37,let them know.,"And Rita was ?€? I was cooking,"
+80,33,[33],1,37,"her sister's husband,",Daddy will be home soon.?€?
+80,34,[34],1,37,and described the whole situation.,He was working down in the yard.
