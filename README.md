@@ -9,7 +9,7 @@ by Weishun Zhong, Tankut Can, Antonis Georgiou, Ilya Shnayderman, Mikhail Katkov
 - **`RTM_notebook.ipynb`**: The main notebook for reproducing all the results presented in the paper.  
   It uses data located in `data/Recall_mappings`.
 
-You can try it out in **Google Colab** by clicking the link below:
+You can try it out in **Google Colab** by clicking this link:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhongweishun/RandomTreeModel_PRL/blob/main/RTM_notebook.ipynb)
 
 - **`Load_stories&recalls.ipynb`**: Illustrates how to access the raw text data in `data/Stories_and_recalls`  
